@@ -1,0 +1,13 @@
+time,type,transaction, balance
+07-03-24,Deposit,20.0,20.0
+07-03-24,Entertainment,-20.0,0.0
+07-03-24,Transportation,-50.0,-50.0
+07-03-24,Rent,-8000.0,-8050.0
+07-03-24,Grocery,-3000.0,-11050.0
+07-03-24,Deposit,20.0,-11030.0
+07-03-24,Rent,0.0,-11030.0
+07-03-24,Entertainment,-20.0,-11050.0
+07-03-24,Transportation,-20.0,-11070.0
+07-03-24,Transportation,-20.0,-11090.0
+08-03-24,Transportation,-200.0,-11110.0
+08-03-24,Entertainment,-200.0,-11130.0
